@@ -1,1 +1,2 @@
 Hello this is file 1 from tom user 
+this is second message for second commit
